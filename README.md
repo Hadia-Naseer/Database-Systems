@@ -1,1 +1,2 @@
 # Database-Systems
+This is a huge and comprehensive project that represents a significant amount of my hard work and dedication. I have put my maximum effort into developing every part of this system to ensure it is robust and complete. To provide a full picture of the work done, I have uploaded a large variety of files, including source code, detailed project reports, assignments and many more. It is a complete package that showcases the entire development lifecycle of the database and its implementation.
